@@ -170,10 +170,6 @@ def handle_text(update: Update, context: CallbackContext) -> None:
 app = Flask(__name__, static_folder='.', static_url_path='')
 CORS(app)
 
-@app.route('/')
-def serve_index():
-    return send_from_directory('.', 'index.html')
-
 @app.route('/api/classify', methods=['POST'])
 def classify_image_endpoint():
     if 'image' not in request.files: return jsonify({'error': 'No image file provided'}), 400
