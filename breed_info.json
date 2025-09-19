@@ -1,0 +1,143 @@
+{
+  "Banni": {
+    "features": "A buffalo breed from the Kutch region of Gujarat. They are well-adapted to the arid, saline environment and are known for their high milk-fat content."
+  },
+  "Bargur": {
+    "features": "A draught breed from the Bargur hills of Tamil Nadu. They are semi-wild, known for their brown coat with white markings and aggressive temperament, making them difficult to train."
+  },
+  "Bhadawari": {
+    "features": "A buffalo breed from Uttar Pradesh and Madhya Pradesh. It is famous for its milk, which has one of the highest butterfat contents, sometimes exceeding 12%."
+  },
+  "Chhatthisgarhi": {
+    "features": "A buffalo breed from Chhattisgarh, known for its adaptability to local climatic conditions and primarily used for milk and draught purposes."
+  },
+  "Chilika": {
+    "features": "A buffalo breed from the Chilika lake region of Odisha, known for its ability to thrive in marshy and coastal environments."
+  },
+  "Dharwadi": {
+    "features": "A buffalo breed from Karnataka, well-adapted to local conditions and mainly reared for milk production."
+  },
+  "Gojri": {
+    "features": "A buffalo breed found in northern India, particularly in Jammu & Kashmir and Himachal Pradesh, known for milk production."
+  },
+  "Jaffarabadi": {
+    "features": "Listed under buffaloes, but if considered here, it is primarily a buffalo breed known for its massive size and milk yield."
+  },
+  "Kalahandi": {
+    "features": "A buffalo breed from Odisha, primarily used for draught purposes in the hilly terrains. They are sturdy and well-adapted to the local climate."
+  },
+  "Luit": {
+    "features": "A buffalo breed from Assam, well adapted to the flood-prone regions and valued for milk and draught work."
+  },
+  "Manda": {
+    "features": "A buffalo breed from Odisha, commonly reared by tribal communities, known for their draught power in hilly terrain."
+  },
+  "Marathwadi": {
+    "features": "A buffalo breed from the Marathwada region of Maharashtra. They are known for their adaptability to drought conditions and are used for both milk and draught."
+  },
+  "mehsana": {
+    "features": "A dairy cattle breed from Gujarat, distinct from the buffalo of the same name, known for milk production."
+  },
+  "Murrah": {
+    "features": "The most famous dairy buffalo breed in India, originating from Haryana and Punjab. It is known as 'Black Gold' for its exceptional milk yield and jet-black color with tightly curled horns."
+  },
+  "Nili Ravi": {
+    "features": "A dairy buffalo breed from Punjab. They are easily identified by their 'wall eyes' (white eyes) and white markings on the face and legs. They are excellent milkers."
+  },
+  "Pandharpuri": {
+    "features": "Listed under buffaloes, but if considered here, it is a dairy buffalo breed from Maharashtra with very long horns."
+  },
+  "Sambalpuri": {
+    "features": "A buffalo breed from Odisha, primarily reared for draught and milk, well adapted to the local environment."
+  },
+  "South Kanara": {
+    "features": "A buffalo breed from coastal Karnataka, used for agriculture and traditional buffalo racing (Kambala)."
+  },
+  "Surti": {
+    "features": "Listed under buffaloes, but if considered here, it is a medium-sized dairy buffalo breed from Gujarat."
+  },
+  "Toda": {
+    "features": "Listed under buffaloes, but if considered here, it is maintained by the Toda tribal community of Tamil Nadu."
+  },
+  "Alambadi": {
+    "features": "A draught breed from Tamil Nadu, known for its dark grey or black color and backward-curving horns. They are well-suited for work in hilly terrains."
+  },
+  "Malnad Gidda": {
+    "features": "A dwarf cattle breed from the Malenadu region of Karnataka. They are known for their small size, disease resistance, and adaptability to heavy rainfall."
+  },
+  "marathwari": {
+    "features": "A dual-purpose cattle breed from Maharashtra, valued for both milk and draught work."
+  },
+  "Nagori": {
+    "features": "A fine trotting draught breed from Nagaur, Rajasthan. Famous for their speed and endurance, the bullocks are highly prized for transport and farm work."
+  },
+  "Nagpuri": {
+    "features": "A draught cattle breed from Maharashtra, distinct from the buffalo, used for agricultural purposes."
+  },
+  "nimari": {
+    "features": "A draught breed from Madhya Pradesh. They are well-built, reddish in color with white splashes, and have coffin-shaped heads."
+  },
+  "ongole": {
+    "features": "A large, world-famous breed from Andhra Pradesh. Known for its muscular build, high hump, and suitability for heavy draught work. It is also a moderate milker."
+  },
+  "Gir": {
+    "features": "A world-renowned dairy breed from Gujarat. It is easily recognized by its bulging forehead, long pendulous ears, and high-quality A2 milk."
+  },
+  "Sahiwal": {
+    "features": "One of the best dairy breeds of zebu cattle, originating from Punjab. It is known for its high milk yield, heat tolerance, and reddish-dun color."
+  },
+  "sindhi": {
+    "features": "A popular dairy breed originating from Sindh, Pakistan, but found widely in India. They are known for their heat tolerance, deep red color, and high milk production."
+  },
+  "Rathi": {
+    "features": "A major dairy breed from the arid regions of Rajasthan. They are known for their high milk yield on very little fodder, often called the 'Queen of Milch Breeds' in the region."
+  },
+  "Kankraj": {
+    "features": "A dual-purpose breed from the Kutch region of Gujarat. They are prized for both their milk and draught power and are identified by their lyre-shaped horns."
+  },
+  "Hariana": {
+    "features": "A prominent dual-purpose breed from Haryana, Uttar Pradesh, and Rajasthan. They are powerful draught animals, and the cows are good milk producers."
+  },
+  "Hallikar": {
+    "features": "A popular draught breed from Karnataka. They are known for their long, vertical, and backward-bending horns, muscular build, and incredible stamina."
+  },
+  "Khillari": {
+    "features": "A powerful draught breed from Maharashtra and Karnataka. Characterized by their long, sharp horns and compact, muscular body, they are famous for their speed and strength."
+  },
+  "Kangayam": {
+    "features": "A strong draught breed from Tamil Nadu. They are usually grey or white, with a well-developed hump and strong legs, ideal for agricultural work."
+  },
+  "dangi": {
+    "features": "A draught breed from the Dangs district of Gujarat and Maharashtra. They are renowned for their ability to work in heavy rainfall areas and paddy fields."
+  },
+  "Deoni": {
+    "features": "A dual-purpose breed from the Marathwada region of Maharashtra. They usually have a black and white spotted body and are known for their gentle nature."
+  },
+  "Krishna": {
+    "features": "A cattle breed from Karnataka, also called Krishna Valley, large in size and used for draught purposes."
+  },
+  "vechur cattle": {
+    "features": "A dwarf cattle breed from Kerala, officially recognized as the smallest cattle breed in the world by Guinness World Records. They produce a surprising amount of milk for their size."
+  },
+  "Pulikulam": {
+    "features": "A strong draught breed from Tamil Nadu, specifically used in the traditional sport of Jallikattu. They are known for their agility and aggressive nature."
+  },
+  "belahi": {
+    "features": "A dairy breed from Haryana and Chandigarh. They are medium-sized with varied coat colors, often reddish-brown or grey with white patches."
+  },
+  "brown swiss": {
+    "features": "An exotic dairy cattle breed from Switzerland, known for high milk production and adaptability to different climates."
+  },
+  "Guzerat": {
+    "features": "A dual-purpose breed from Gujarat, known for draught power and milk production, with a sturdy build and lyre-shaped horns."
+  },
+   "Hack": {
+    "features": "A distinct cattle breed (different from Hallikar), reported in Southern India. Recognized by a darker coat and sturdy build, though detailed information is limited."
+  },
+  "Kandhari": {
+    "features": "Also called Red Kandhari, this cattle breed originates from Kandhar in Maharashtra. It is known for its deep red coat, medium size, and use in draught work. Cows produce about 600 liters of milk per lactation with ~4.5% fat."
+  },
+  "tharparkar": {
+    "features": "A dual-purpose cattle breed from the Thar Desert region (Rajasthan, India and Sindh, Pakistan). They are hardy, white to light grey in color, well-suited for arid climates, and valued for both milk (1700–2000 liters per lactation) and draught purposes."
+  }
+}
