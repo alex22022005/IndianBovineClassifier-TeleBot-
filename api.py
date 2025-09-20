@@ -46,3 +46,8 @@ def classify_image_endpoint():
     except Exception as e:
         logger.error(f"Error during API image classification: {e}")
         return jsonify({'error': 'An internal error occurred during processing.'}), 500
+
+# --- ADD THIS BLOCK AT THE END ---
+if __name__ == '__main__':
+    port = int(os.environ.get('PORT', 10000))
+    app.run(host='0.0.0.0', port=port)
